@@ -8,7 +8,7 @@ Hi there 👋! Nice to see you.
 - 🌱 I’m currently learning Python 3 and Java from basic to advanced.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love participating in congresses and conferences, and making new friends.
--->
+
 
 <h2>Where to find me</h2>
 <p><a href="mailto:dhennya@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </a><a href="https://twitter.com/DhennyaCampos" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a> 
