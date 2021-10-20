@@ -1,7 +1,7 @@
 Hi there 👋! Nice to see you.
 
 <p><b>Welcome to my page! </br> I'm Denivan Campos, a Ph.D. student in Computer Science at Federal University of Bahia, Brazil.
-</br> Currently living in <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="13"/> <b>Salvador - Bahia, Brazil</b>.
+</br> Currently living in <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="13"/> Salvador - Bahia, Brazil</b>.
 <p>
 
 - 🔭 I’m currently working on investigating evolutionary aspects of Software Testing. 
