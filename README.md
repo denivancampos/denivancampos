@@ -1,5 +1,5 @@
-<h2>Hi there 👋! Nice to see you.</h2>
-<h3>Welcome to my page!</h3>
+<h3>Hi there 👋! Nice to see you.</h3>
+<h4>Welcome to my page!</h4>
 
 <p><b></br> I'm Denivan Campos, a Ph.D. student in Computer Science at Federal University of Bahia, Brazil.
 </br> Currently living in <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="13"/> Salvador - Bahia, Brazil</b>.
