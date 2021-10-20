@@ -16,9 +16,3 @@
 <a href="https://www.linkedin.com/in/denivan-campos-dhennya-41a50b38//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C"/> <a href="https://www.instagram.com/dhennyacampos/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
 </p>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
