@@ -1,8 +1,7 @@
 ### Hi there 👋 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Denivan Campos,  Ph.D. student in Computer Science at Federal University of Bahia, Brazil, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Denivan Campos,  Ph.D. student in Computer Science at Federal University of Bahia, Brazil, currently living in <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="13"/> <b>Stockholm, Sweden</b>.
 <p>
 
 Here are some ideas to get you started:
