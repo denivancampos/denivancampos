@@ -1,12 +1,12 @@
 <h3>Hi there 👋! Nice to see you.</h3>
 <h4>Welcome to my page!</h4>
 
-<p><b></br> I'm Denivan Campos, a Ph.D. student in Computer Science at Federal University of Bahia, Brazil.
-</br> Currently living in <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="13"/> Salvador - Bahia, Brazil</b>.
+<p><b></br> I'm Denivan Campos. I'm a postdoctoral researcher at the University of Molise, Pesche, Italy. I'm received a Ph.D. in Computer Science from Federal University of Bahia, Brazil.
+</br> Currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Bandeira da Itália" width="13"> Isernia - Molise, Italy</b>.
 <p>
 
-- 🔭 I’m currently working on investigating evolutionary aspects of Software Testing. 
-- 🌱 I’m currently learning Python 3 and Java from basic to advanced.
+- 🔭 I’m working on investigating Performance Regression Testing.
+- 🔭 I worked on investigating evolutionary aspects of Software Testing. 
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love participating in congresses and conferences, and making new friends.
 
