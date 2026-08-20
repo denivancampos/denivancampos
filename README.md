@@ -1,12 +1,12 @@
 <h3>Hi there 👋! Nice to see you.</h3>
 <h4>Welcome to my page!</h4>
 
-<p><b></br> I'm Denivan Campos. I'm a postdoctoral researcher at the University of Molise, Pesche, Italy. I'm received a Ph.D. in Computer Science from Federal University of Bahia, Brazil.
+<p><b></br> I'm Denivan Campos. I'm Lecturer at the Center for Integrated Sciences (CCI), Federal University of Northern of Tocantins (UFNT). I was a postdoctoral researcher at the University of Molise, Pesche, Italy. I was a Ph.D. in Computer Science from Federal University of Bahia, Brazil.
 </br> Currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Bandeira da Itália" width="13"> Isernia - Molise, Italy</b>.
 <p>
 
-- 🔭 I’m working on investigating Performance Regression Testing.
-- 🔭 I worked on investigating evolutionary aspects of Software Testing. 
+- 🔭 I’m working as a Professor of Software Engineering at the Federal University of Northern Tocantins. (UFNT).
+- 🔭 I worked on investigating evolutionary aspects of Software Testing, Software quality, Humano Aspect, Software Evolution and Performance Testing.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love participating in congresses and conferences, and making new friends.
 
